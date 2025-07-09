@@ -1,4 +1,4 @@
-# 📊 Financial-Fraud-Detection-Analysis
+![image](https://github.com/user-attachments/assets/47e95a0b-e7ac-4712-b99c-504cd928af69)![image](https://github.com/user-attachments/assets/3e719e1b-c4fb-4a7f-9288-948d0888eccc)# 📊 Financial-Fraud-Detection-Analysis
 A machine learning-based solution for detecting fraudulent financial transactions, with an interactive Streamlit web application for real-time prediction.
 
 ## 🚀 Project Overview
@@ -76,6 +76,14 @@ Visualized the relationship between transaction type and fraud rate.
 Analyzed the distribution of transaction amounts, including using a log scale due to the wide range of values.
 
 Visualized the relationship between transaction amount and fraud for amounts under 50k.
+
+![image](https://github.com/user-attachments/assets/52de99e7-dca3-4b6d-b259-29d1a79b260c)
+
+![image](https://github.com/user-attachments/assets/d2940775-2805-4c21-97ae-e8921d040990)
+
+
+![image](https://github.com/user-attachments/assets/67904ef5-3189-4b9e-9b10-f70489df97fc)
+
 
 ## Feature Engineering:
 
