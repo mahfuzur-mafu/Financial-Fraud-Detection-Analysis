@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/47e95a0b-e7ac-4712-b99c-504cd928af69)![image](https://github.com/user-attachments/assets/3e719e1b-c4fb-4a7f-9288-948d0888eccc)# 📊 Financial-Fraud-Detection-Analysis
+# 📊 Financial-Fraud-Detection-Analysis
 A machine learning-based solution for detecting fraudulent financial transactions, with an interactive Streamlit web application for real-time prediction.
 
 ## 🚀 Project Overview
@@ -117,6 +117,13 @@ Saved the trained pipeline to a file named fraud_detection_pipeline.pkl for futu
 The Logistic Regression model achieved an accuracy of approximately 94.88%. The classification report shows the precision, recall, and f1-score for both fraudulent and non-fraudulent classes, highlighting the model's performance in identifying fraudulent transactions despite the dataset's imbalance.
 
 The confusion matrix provides a detailed breakdown of true positives, true negatives, false positives, and false negatives.
+
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/d6d959dc-12f0-42f3-8430-948dba38a52f" />
+
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/c3626018-6a0d-43c0-8845-35f02d13de20" />
+
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/abdc0e83-282d-47bb-900b-cc5eca8cf87a" />
+
 
 ## Getting Started
 To run this project, you will need to have Python and the following libraries installed:
