@@ -124,14 +124,3 @@ The confusion matrix provides a detailed breakdown of true positives, true negat
 
 <img width="1470" alt="image" src="https://github.com/user-attachments/assets/abdc0e83-282d-47bb-900b-cc5eca8cf87a" />
 
-
-## Getting Started
-To run this project, you will need to have Python and the following libraries installed:
-
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-joblib
-You can install these libraries using pip:
